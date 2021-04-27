@@ -1,0 +1,1284 @@
+<!DOCTYPE html>
+<!-- saved from url=(0035)file:///F:/libazz%20final/blog.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- title -->
+        <title>Libazz - The Fashionable eCommerce Store</title>
+        <meta name="description" content="Libazz fashion is highly visualization, stunning look, responsive, stylish ecommerce templates for suitable multi ecommerce stores.">
+        <meta name="keywords" content="template in html,market envato,shoes template,themes in html, theme live, wordpress demo, owl slider, theme forest, market envato, forest theme, instagram theme dividers, patty themes, modern, fashion designer templates, shoes template, shopify fresh theme, buildin, bootstrap, accordions html, template for shopify, responsive, html5, fashion, furniture, mobile, watches, computers, jewellery">
+        <meta name="author" content="spacingtech_webify">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- favicon -->
+        <link rel="shortcut icon" type="image/favicon" href="file:///F:/libazz%20final/image/libazz-fashion-favicon.png">
+        <!-- bootstrap -->
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/bootstrap.min.css">
+        <!-- animation -->
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/animate.css">
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/aos.css">
+        <!-- owl slider -->
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/swiper.min.css">
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/owl.carousel.min.css">
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/owl.theme.default.min.css">
+        <!-- font awesome -->
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/all.min.css">
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/themify-icons.css">
+        <!-- style -->
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/styles.css">
+        <!-- responsive -->
+        <link rel="stylesheet" type="text/css" href="./img-47-47_files/responsive.css">
+    </head>
+    <body data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0">
+        <!-- back to top scroll start -->
+        <a class="scroll" id="scroll" style="display: inline;"><span><i class="ti-arrow-up"></i></span></a>
+        <!-- back to top scroll end -->
+        <!-- cart-side-icon start -->
+        <div class="cart-side-icon">
+            <a href="https://themeforest.net/item/libazz-the-fashionable-ecommerce-store/24226553"><i class="ti-shopping-cart-full"></i><span>Buy now</span></a>
+        </div>
+        <!-- cart-side-icon end -->
+        <!-- header section start -->
+        <header class="head w-100 bg-dark-light-blue">
+            <div class="container md-display-none">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4">
+                        <!-- support section start -->
+                        <div class="padding-top-5px padding-bottom-5px">
+                            <div class="emailbox display-inline-block vertical-align-middle">
+                                <i class="far fa-envelope spin text-light-gray"></i>
+                            </div>
+                            <div class="display-inline-block">
+                                <a href="javaScript:void(0)" class="text-light-gray margin-left-5px text-decoration-none">Support@libazz.com</a>
+                            </div>
+                        </div>
+                        <!-- support section end -->
+                    </div>
+                    <div class="col-xl-4 col-lg-4 text-center">
+                        <!-- time section start -->
+                        <div class="padding-top-5px padding-bottom-5px">
+                            <div class="clock display-inline-block vertical-align-middle">
+                                <i class="far fa-clock spin text-light-gray"></i>
+                            </div>
+                            <div class="display-inline-block">
+                                <div class="text-light-gray margin-left-5px">Mon-Sat : 09am-09pm</div>
+                            </div>
+                        </div>
+                        <!-- time section end -->
+                    </div>
+                    <div class="col-xl-4 col-lg-4 text-right">
+                        <!-- call section start -->
+                        <div class="padding-top-5px padding-bottom-5px">
+                            <div class="call display-inline-block vertical-align-middle">
+                                <i class="fas fa-phone-volume spin text-light-gray"></i>
+                            </div>
+                            <div class="display-inline-block">
+                                <div class="text-light-gray margin-left-5px text-decoration-none">+1654-5654</div>
+                            </div>
+                        </div>
+                        <!-- call section end -->
+                    </div>
+                </div>
+            </div>
+            <!-- border start -->
+            <div class="border-bottom-light md-display-none"></div>
+            <!-- border end -->
+            <div class="w-100 bg-dark-light-blue sticky" id="collapsibleNavbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-2 col-lg-2 col-md-4 col-5 d-flex align-items-center">
+                            <!-- logo start -->
+                            <div class="mainlogo">
+                                <a class="navbar-brand" href="file:///F:/libazz%20final/home.html">
+                                    <img src="./img-47-47_files/libazz-fashion-logo.png" alt="logo" class="img-fluid header-logo">
+                                </a>
+                            </div>
+                            <!-- logo end -->
+                        </div>
+                        <div class="col-xl-8 col-lg-7 col-md-4 col-1 sm-no-padding">
+                            <!-- header navbar start -->
+                            <nav class="navbar navbar-expand-lg" id="navbar">
+                                <!-- navbar toggler start -->
+                                <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1">
+                                    <span class="text-white"><i class="ti-align-justify"></i></span>
+                                </button>
+                                <!-- navbar toggler end -->
+                                <div class="collapse navbar-collapse bg-dark-light-blue" id="navbarSupportedContent1">
+                                    <!-- header nav start -->
+                                    <ul class="nav navbar-nav topnav">
+                                        <!-- header-nav home start -->
+                                        <li class="nav-home">
+                                            <a href="javaScript:void(0)">Home<i class="fas fa-angle-down padding-left-5px"></i></a>
+                                            <div class="dropdown-home">
+                                                <a href="file:///F:/libazz%20final/home.html">Home layout 1</a>
+                                                <a href="file:///F:/libazz%20final/home2.html">Home layout 2</a>
+                                                <a href="file:///F:/libazz%20final/home3.html">Home layout 3</a>
+                                                <a href="file:///F:/libazz%20final/home4.html">Home layout 4</a>
+                                            </div>
+                                        </li>
+                                        <!-- header-nav home end -->
+                                        <!-- header-nav category start -->
+                                        <li class="nav-category" id="show">
+                                            <a href="javascript:void(0)">Category<i class="fas fa-angle-down padding-left-5px"></i></a>
+                                            <div class="container-fluid md-no-padding">
+                                                <div class="row dropdown-content">
+                                                    <!-- men category start -->
+                                                    <div class="col-xl-3 col-lg-3 col-md-12 col-12 parts dropdown-men">
+                                                        <h3 class="text-large cat-head sm-text-extra-large">Mens</h3>
+                                                        <a href="file:///F:/libazz%20final/category-tshirt.html" class="padding-top-10px">Tshirt</a>
+                                                        <a href="file:///F:/libazz%20final/category-shirt.html">Shirt</a>
+                                                        <a href="file:///F:/libazz%20final/category-pants.html">Pant</a>
+                                                        <a href="file:///F:/libazz%20final/category-jacket.html">Jacket</a>
+                                                        <a href="file:///F:/libazz%20final/category-footwear.html">Footwear</a>
+                                                        <a href="file:///F:/libazz%20final/category-bag-glasses.html">Bag &amp; Glass</a>
+                                                        <a href="file:///F:/libazz%20final/category-mix.html">Mix</a>
+                                                    </div>
+                                                    <!-- men category end -->
+                                                    <!-- women category start -->
+                                                    <div class="col-xl-3 col-lg-3 col-md-12 col-12 parts">
+                                                        <h3 class="text-large cat-head sm-text-extra-large">Womens</h3>
+                                                        <a href="file:///F:/libazz%20final/category-women-tshirt.html" class="padding-top-10px">Tshirt</a>
+                                                        <a href="file:///F:/libazz%20final/category-women-shirt.html">Shirt</a>
+                                                        <a href="file:///F:/libazz%20final/category-women-pants.html">Pant</a>
+                                                        <a href="file:///F:/libazz%20final/category-women-footwear.html">Footwear</a>
+                                                        <a href="file:///F:/libazz%20final/category-women-leggings.html">Bikini set</a>
+                                                        <a href="file:///F:/libazz%20final/category-women-purse.html">Purse</a>
+                                                        <a href="file:///F:/libazz%20final/category-women-mix.html">Mix</a>
+                                                    </div>
+                                                    <!-- women category end -->
+                                                    <!-- category image start -->
+                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-12 d-flex align-items-center md-display-none">
+                                                        <div class="mega-img">
+                                                            <a href="javascript:void(0)"><img src="./img-47-47_files/libazz-fashion-megamenu-img.jpg" alt="megamenu-img" class="img-fluid w-100"></a>
+                                                        </div>
+                                                    </div>
+                                                    <!-- category image end -->
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <!-- header-nav category end -->
+                                        <!-- header-nav blog start -->
+                                        <li class="active nav-blog">
+                                            <a class="drop-blog" href="javascript:void(0)">Blogs<i class="fas fa-angle-down padding-left-5px"></i></a>
+                                            <!-- all blog section start -->
+                                            <ul class="dropdown-blog">
+                                                <!-- blog start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Blog<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-subblog">
+                                                        <a href="javaScript:void(0)">Blog</a>
+                                                        <a href="file:///F:/libazz%20final/blog-full.html">Blog full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-side.html">Blog left</a>
+                                                        <a href="file:///F:/libazz%20final/blog-right-side.html">Blog right</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-right-side.html">Blog mix</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-side-full.html">Blog left full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-right-side-full.html">Blog right full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-right-side-full.html">Blog mix full</a>
+                                                    </div>
+                                                </li>
+                                                <!-- blog end -->
+                                                <!-- blog-grid start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Blog grid<i class="fas fa-angle-right"></i></a>
+                                                    <ul class="dropdown-bloggrid">
+                                                        <!-- blog 2 grid start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Blog 2 grid<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subblog-2grid">
+                                                                <a href="file:///F:/libazz%20final/blog-2-grid.html">2 grid</a>
+                                                                <a href="file:///F:/libazz%20final/blog-2-grid-left-side.html">2 grid left</a>
+                                                                <a href="file:///F:/libazz%20final/blog-2-grid-right-side.html">2 grid right</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- blog 2 grid end -->
+                                                        <!-- blog 3 grid start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Blog 3 grid<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subblog-3grid">
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid.html">3 grid</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-left-side.html">3 grid left</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-right-side.html">3 grid right</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-full.html">3 grid full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-left-side-full.html">3 grid left full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-right-side-full.html">3 grid right full</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- blog 3 grid end -->
+                                                        <!-- blog 4 grid start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Blog 4 grid<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subblog-4grid">
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid.html">4 grid</a>
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid-full.html">4 grid full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid-left-side-full.html">4 grid left full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid-right-side-full.html">4 grid right full</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- blog 4 grid end -->
+                                                    </ul>
+                                                </li>
+                                                <!-- blog-grid end -->
+                                                <!-- blog-simple start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Blog simple<i class="fas fa-angle-right"></i></a>
+                                                    <ul class="dropdown-blogsimple">
+                                                        <!-- blog 2 simple start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Blog 2 simple<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subblog-2simple">
+                                                                <a href="file:///F:/libazz%20final/blog-2-grid-simple.html">2 simple</a>
+                                                                <a href="file:///F:/libazz%20final/blog-2-grid-simple-left-side.html">2 simple left</a>
+                                                                <a href="file:///F:/libazz%20final/blog-2-grid-simple-right-side.html">2 simple right</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- blog 2 simple end -->
+                                                        <!-- blog 3 simple start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Blog 3 simple<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subblog-3simple">
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-simple.html">3 simple</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-simple-left-side.html">3 simple left</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-simple-right-side.html">3 simple right</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-simple-full.html">3 simple full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-simple-left-side-full.html">3 simple left full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-3-grid-simple-right-side-full.html">3 simple right full</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- blog 3 simple end -->
+                                                        <!-- blog 4 simple start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Blog 4 simple<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subblog-4simple">
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid-simple.html">4 simple</a>
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid-simple-full.html">4 simple full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid-left-side-simple-full.html">4 simple left full</a>
+                                                                <a href="file:///F:/libazz%20final/blog-4-grid-right-side-simple-full.html">4 simple right full</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- blog 4 simple end -->
+                                                    </ul>
+                                                </li>
+                                                <!-- blog-simple end -->
+                                                <!-- blog-list start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Blog list<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-bloglist">
+                                                        <a href="file:///F:/libazz%20final/blog-list.html">List</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-full.html">List full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-left-side.html">List left</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-right-side.html">List right</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-left-right-side.html">List mix</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-left-side-full.html">List left full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-right-side-full.html">List right full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-left-right-side-full.html">List mix full</a>
+                                                    </div>
+                                                </li>
+                                                <!-- blog-list end -->
+                                                <!-- blog-classic start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Blog classic<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-blogclassic">
+                                                        <a href="file:///F:/libazz%20final/blog-classic.html">Classic</a>
+                                                        <a href="file:///F:/libazz%20final/blog-classic-full.html">Classic full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-side-classic.html">Classic left</a>
+                                                        <a href="file:///F:/libazz%20final/blog-right-side-classic.html">Classic right</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-side-classic-full.html">Classic left full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-right-side-classic-full.html">Classic right full</a>
+                                                    </div>
+                                                </li>
+                                                <!-- blog-classic end -->
+                                                <!-- blog-sticky start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Blog sticky<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-blogsticky">
+                                                        <a href="file:///F:/libazz%20final/blog-left-side-sticky.html">Sticky left</a>
+                                                        <a href="file:///F:/libazz%20final/blog-right-side-sticky.html">Sticky right</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-right-side-sticky.html">Sticky mix</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-left-right-side-sticky.html">List sticky mix</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-side-sticky-full.html">Sticky left full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-right-side-sticky-full.html">Sticky right full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-left-right-side-sticky-full.html">Sticky mix full</a>
+                                                        <a href="file:///F:/libazz%20final/blog-list-left-right-side-sticky-full.html">List sticky mix full</a>
+                                                    </div>
+                                                </li>
+                                                <!-- blog-sticky end -->
+                                            </ul>
+                                            <!-- all blog section end -->
+                                        </li>
+                                        <!-- header-nav blog end -->
+                                        <!-- header-nav product start -->
+                                        <li class="nav-product">
+                                            <a href="javascript:void(0)">Product<i class="fas fa-angle-down padding-left-5px"></i></a>
+                                            <!-- all product start -->
+                                            <ul class="dropdown-product">
+                                                <!-- product-grid start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javaScript:void(0)">Product grid<i class="fas fa-angle-right"></i></a>
+                                                    <ul class="dropdown-productgrid">
+                                                        <!-- product 2 grid start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Product 2 grid<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subproduct-2grid">
+                                                                <a href="file:///F:/libazz%20final/product-2-grid.html">2 grid</a>
+                                                                <a href="file:///F:/libazz%20final/product-2-grid-left-side.html">2 grid left</a>
+                                                                <a href="file:///F:/libazz%20final/product-2-grid-right-side.html">2 grid right</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- product 2 grid end -->
+                                                        <!-- product 3 grid start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Product 3 grid<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subproduct-3grid">
+                                                                <a href="file:///F:/libazz%20final/product-3-grid.html">3 grid</a>
+                                                                <a href="file:///F:/libazz%20final/product-3-grid-left-side.html">3 grid left</a>
+                                                                <a href="file:///F:/libazz%20final/product-3-grid-right-side.html">3 grid right</a>
+                                                                <a href="file:///F:/libazz%20final/product-3-grid-full.html">3 grid full</a>
+                                                                <a href="file:///F:/libazz%20final/product-3-grid-left-side-full.html">3 grid left full</a>
+                                                                <a href="file:///F:/libazz%20final/product-3-grid-right-side-full.html">3 grid right full</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- product 3 grid end -->
+                                                        <!-- product 4 grid start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="javascript:void(0)">Product 4 grid<i class="fas fa-angle-right"></i></a>
+                                                            <div class="dropdown-subproduct-4grid">
+                                                                <a href="file:///F:/libazz%20final/product-4-grid.html">4 grid</a>
+                                                                <a href="file:///F:/libazz%20final/product-4-grid-left-side.html">4 grid left</a>
+                                                                <a href="file:///F:/libazz%20final/product-4-grid-right-side.html">4 grid right</a>
+                                                                <a href="file:///F:/libazz%20final/product-4-grid-full.html">4 grid full</a>
+                                                                <a href="file:///F:/libazz%20final/product-4-grid-left-side-full.html">4 grid left full</a>
+                                                                <a href="file:///F:/libazz%20final/product-4-grid-right-side-full.html">4 grid right full</a>
+                                                            </div>
+                                                        </li>
+                                                        <!-- product 4 grid end -->
+                                                        <!-- product 6 grid start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="file:///F:/libazz%20final/product-6-grid-full.html">Product 6 grid full</a>
+                                                        </li>
+                                                        <!-- product 6 grid end -->
+                                                        <!-- product-all-in-one start -->
+                                                        <li class="dropdown-submenu">
+                                                            <a href="file:///F:/libazz%20final/allinonegrid.html">All in one grid</a>
+                                                        </li>
+                                                        <!-- product-all-in-one end -->
+                                                    </ul>
+                                                </li>
+                                                <!-- product-grid end -->
+                                                <!-- product-list start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Product list<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-productlist">
+                                                        <a href="file:///F:/libazz%20final/product-list.html">List</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-full.html">List full</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-left-side.html">List left</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-right-side.html">List right</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-left-side-full.html">List left full</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-right-side-full.html">List right full</a>
+                                                    </div>
+                                                </li>
+                                                <!-- product-list end -->
+                                                <!-- product-list-advance start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Product list advance<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-productlistadv">
+                                                        <a href="file:///F:/libazz%20final/product-list-advance.html">List adv</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-advance-full.html">List adv full</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-left-side-advance.html">List adv left</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-right-side-advance.html">List adv right</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-left-side-advance-full.html">List adv left full</a>
+                                                        <a href="file:///F:/libazz%20final/product-list-right-side-advance-full.html">List adv right full</a>
+                                                    </div>
+                                                </li>
+                                                <!-- product-list-advance end -->
+                                                <!-- product-detail start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Product detail<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-productdetail">
+                                                        <a href="file:///F:/libazz%20final/product-detail.html">Detail</a>
+                                                        <a href="file:///F:/libazz%20final/product-detail-simple.html">Detail simple</a>
+                                                        <a href="file:///F:/libazz%20final/product-detail-slider.html">Detail slider</a>
+                                                        <a href="file:///F:/libazz%20final/product-detail-sticky.html">Detail sticky</a>
+                                                        <a href="file:///F:/libazz%20final/product-detail-with-zoom-effect.html">Detail zoom effect</a>
+                                                    </div>
+                                                </li>
+                                                <!-- product-detail end -->
+                                                <!-- product-comparision start -->
+                                                <li class="dropdown-submenu">
+                                                    <a href="javascript:void(0)">Product comparision<i class="fas fa-angle-right"></i></a>
+                                                    <div class="dropdown-productcomp">
+                                                        <a href="file:///F:/libazz%20final/product-comparision.html">Comparision</a>
+                                                        <a href="file:///F:/libazz%20final/product-comparision-adv.html">Comparision adv</a>
+                                                    </div>
+                                                </li>
+                                                <!-- product-comparision end -->
+                                            </ul>
+                                            <!-- all product end -->
+                                        </li>
+                                        <!-- header-nav product end -->
+                                        <!-- header-nav page start -->
+                                        <li class="nav-page">
+                                            <a href="javascript:void(0)">Pages<i class="fas fa-angle-down padding-left-5px"></i></a>
+                                            <div class="dropdown-page">
+                                                <a href="file:///F:/libazz%20final/about-us.html">About</a>
+                                                <a href="file:///F:/libazz%20final/billing-info.html">Billing info</a>
+                                                <a href="file:///F:/libazz%20final/cancellation.html">Cancellation</a>
+                                                <a href="file:///F:/libazz%20final/cart-page.html">Cart page</a>
+                                                <a href="file:///F:/libazz%20final/checkout.html">Checkout</a>
+                                                <a href="file:///F:/libazz%20final/coming-soon.html">Coming soon</a>
+                                                <a href="file:///F:/libazz%20final/faqs.html">Faq's</a>
+                                                <a href="file:///F:/libazz%20final/forgot-pwd.html">Forgot password</a>
+                                                <a href="file:///F:/libazz%20final/order-complete.html">Order complete</a>
+                                                <a href="file:///F:/libazz%20final/privacy-policy.html">Privacy policy</a>
+                                                <a href="file:///F:/libazz%20final/signup.html">Signup</a>
+                                                <a href="file:///F:/libazz%20final/signin.html">Signin</a>
+                                                <a href="file:///F:/libazz%20final/site-map.html">Sitemap</a>
+                                                <a href="file:///F:/libazz%20final/terms-condition.html">Terms &amp; condition</a>
+                                                <a href="file:///F:/libazz%20final/track-page.html">Track page</a>
+                                                <a href="file:///F:/libazz%20final/wishlist.html">Wishlist</a>
+                                                <a href="file:///F:/libazz%20final/fnf.html">4 not 4</a>
+                                            </div>
+                                        </li>
+                                        <!-- header-nav page end -->
+                                        <!-- header-nav store start -->
+                                        <li class="nav-store">
+                                            <a href="file:///F:/libazz%20final/stores.html" class="">Stores</a>
+                                        </li>
+                                        <!-- header-nav store end -->
+                                        <!-- header-nav contact start -->
+                                        <li class="nav-contact">
+                                            <a href="file:///F:/libazz%20final/contact-us.html" class="">Contact</a>
+                                        </li>
+                                        <!-- header-nav contact end -->
+                                    </ul>
+                                    <!-- header nav end -->
+                                </div>
+                            </nav>
+                            <!-- header navbar end -->
+                        </div>
+                        <div class="col-xl-2 col-lg-3 col-md-4 col-6 d-flex justify-content-end align-items-center sm-no-padding-left">
+                            <!-- header icon start -->
+                            <div class="input-search-1">
+                                <!-- search icon start -->
+                                <div class="display-inline-block search sm-no-margin-left">
+                                    <div class="padding-tb">
+                                        <a class="text-white middle" data-toggle="collapse" data-parent="#search" href="file:///F:/libazz%20final/blog.html#search"><i class="ti-search"></i></a>
+                                        <div class="search-bar collapse" id="search">
+                                            <input type="text" class="text-black" placeholder="Search your product">
+                                            <a href="file:///F:/libazz%20final/search.html" class="text-black search-result"><i class="ti-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- search icon end -->
+                                <!-- setting icon start -->
+                                <div class="display-inline-block setting">
+                                    <div class="padding-tb">
+                                        <div class="margin-left-10px sm-margin-left-5px">
+                                            <a href="javascript:void(0)" class="middle"><i class="ti-settings"></i></a>
+                                            <div class="setting-drop-down">
+                                                <!-- language setting start -->
+                                                <div class="d-block padding-10px">
+                                                    <div class="d-inline-block">
+                                                        <label>Language</label>
+                                                    </div>
+                                                    <div class="arrow display-inline-block">
+                                                        <select class="language d-inline-block">
+                                                            <option>English</option>
+                                                            <option>Hindi</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <!-- language setting end -->
+                                                <!-- language-currency border start -->
+                                                <div class="border-top-light-gray margin-left-10px margin-right-10px"></div>
+                                                <!-- language-currency border end -->
+                                                <!-- currency setting start -->
+                                                <div class="d-block padding-10px">
+                                                    <div class="d-inline-block float-left margin-right-10px">
+                                                        <label>Currency</label>
+                                                    </div>
+                                                    <div class="arrow display-inline-block">
+                                                        <select class="currency d-inline-block">
+                                                            <option>Inr</option>
+                                                            <option>Euro</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <!-- currency setting end -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- setting icon end -->
+                                <!-- wishlist icon start -->
+                                <div class="display-inline-block wishlist">
+                                    <div class="padding-tb">
+                                        <div class="margin-left-10px sm-margin-left-5px">
+                                            <a href="file:///F:/libazz%20final/wishlist.html" class="middle"><i class="ti-heart"></i></a>
+                                            <!-- wishlist item-count start -->
+                                            <div class="item-in-cart-1">
+                                                <div class="d-flex justify-content-center align-items-center">3</div>
+                                            </div>
+                                            <!-- wishlist item-count end -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- wishlist icon end -->
+                                <!-- cart icon start -->
+                                <div class="display-inline-block cart">
+                                    <div class="show-cart padding-tb">
+                                        <div class="margin-left-10px sm-margin-left-5px">
+                                            <a href="javascript:void(0)" class="middle show-cart-click"><i class="ti-shopping-cart"></i></a>
+                                            <!-- cart item-count start -->
+                                            <div class="item-in-cart-1">
+                                                <div class="d-flex justify-content-center align-items-center">5</div>
+                                            </div>
+                                            <!-- cart item-count start -->
+                                            <!-- cart item start -->
+                                            <div class="cart-drop-down">
+                                                <!-- cart item1 start -->
+                                                <div class="row padding-15px-tb">
+                                                    <div class="col-xl-4 col-lg-4 col-md-4 col-4 padding-left-15px padding-right-0px">
+                                                        <div class="padding-left-15px">
+                                                            <a href="javascript:void(0)"><img src="./img-47-47_files/libazz-fashion-cart-1.jpg" alt="cart-1" class="img-fluid"></a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xl-8 col-lg-8 col-md-8 col-8 padding-left-15px">
+                                                        <div class="padding-right-15px">
+                                                            <div class="cart-pro-name font-weight-600 d-block">
+                                                                <a href="javascript:void(0)" class="text-black">Silk Cotton Shirt</a>
+                                                            </div>
+                                                            <div class="quantity d-block">
+                                                                <div class="plus-minus">
+                                                                    <span class="padding-5px border-light-gray sm-text-large">
+                                                                        <a href="javascript:void(0)" class="plus-btn text-black"><i class="fas fa-plus"></i></a>
+                                                                        <input type="text" name="name" value="1" class="border-left-light-gray border-right-light-gray">
+                                                                        <a href="javascript:void(0)" class="minus-btn text-black"><i class="fas fa-minus"></i></a>
+                                                                    </span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="cart-pro-price d-block">
+                                                                <div class="price d-inline-block">
+                                                                    <div class="text-black">$413.00</div>
+                                                                </div>
+                                                                <div class="delete d-inline-block float-right">
+                                                                    <a href="javaScript:void(0)" class="trash text-black"><i class="ti-trash"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- cart item1 end -->
+                                                <!-- cart item border start -->
+                                                <div class="border-top-light-gray margin-left-15px margin-right-15px"></div>
+                                                <!-- cart item border end -->
+                                                <!-- cart item2 start -->
+                                                <div class="row padding-15px-tb">
+                                                    <div class="col-xl-4 col-lg-4 col-md-4 col-4 padding-left-15px padding-right-0px">
+                                                        <div class="padding-left-15px">
+                                                            <a href="javascript:void(0)"><img src="./img-47-47_files/libazz-fashion-cart-2.jpg" alt="cart-2" class="img-fluid"></a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xl-8 col-lg-8 col-md-8 col-8 padding-left-15px">
+                                                        <div class="padding-right-15px">
+                                                            <div class="cart-pro-name font-weight-600 d-block">
+                                                                <a href="javascript:void(0)" class="text-black">Silk Cotton Shirt</a>
+                                                            </div>
+                                                            <div class="quantity d-block">
+                                                                <div class="plus-minus">
+                                                                    <span class="padding-5px border-light-gray sm-text-large">
+                                                                        <a href="javascript:void(0)" class="plus-btn text-black"><i class="fas fa-plus"></i></a>
+                                                                        <input type="text" name="name" value="1" class="border-left-light-gray border-right-light-gray">
+                                                                        <a href="javascript:void(0)" class="minus-btn text-black"><i class="fas fa-minus"></i></a>
+                                                                    </span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="cart-pro-price d-block">
+                                                                <div class="price d-inline-block">
+                                                                    <div class="text-black">$413.00</div>
+                                                                </div>
+                                                                <div class="delete d-inline-block float-right">
+                                                                    <a href="javaScript:void(0)" class="trash text-black"><i class="ti-trash"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- cart item2 end -->
+                                                <!-- cart item border start -->
+                                                <div class="border-top-light-gray margin-left-15px margin-right-15px"></div>
+                                                <!-- cart item border end -->
+                                                <!-- cart button start -->
+                                                <div class="row padding-15px-tb">
+                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-6">
+                                                        <!-- cart view-cart button start -->
+                                                        <div class="continue-shop padding-left-15px">
+                                                            <a href="file:///F:/libazz%20final/cart-page.html" class="btn btn-small-1">Viewcart</a>
+                                                        </div>
+                                                        <!-- cart view-cart button end -->
+                                                    </div>
+                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-6 text-right">
+                                                        <!-- cart checkout button start -->
+                                                        <div class="check-out padding-right-15px">
+                                                            <a href="file:///F:/libazz%20final/checkout.html" class="btn btn-small-1">Checkout</a>
+                                                        </div>
+                                                        <!-- cart checkout button end -->
+                                                    </div>
+                                                </div>
+                                                <!-- cart button end -->
+                                            </div>
+                                            <!-- cart item end -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- cart icon end -->
+                                <!-- user icon start -->
+                                <div class="display-inline-block users">
+                                    <div class="user padding-tb">
+                                        <div class="margin-left-10px sm-margin-left-5px">
+                                            <a href="javascript:void(0)" class="middle"><i class="ti-user"></i></a>
+                                            <!-- user icon attribute start -->
+                                            <div class="user-drop-down">
+                                                <a href="file:///F:/libazz%20final/signin.html" class="text-black d-block border-bottom-light-gray">View Profile</a>
+                                                <a href="file:///F:/libazz%20final/signin.html" class="text-black d-block border-bottom-light-gray">Your Orders</a>
+                                                <a href="file:///F:/libazz%20final/wishlist.html" class="text-black d-block border-bottom-light-gray">Your Wishlist</a>
+                                                <a href="file:///F:/libazz%20final/index.html" class="text-black d-block">Logout</a>
+                                            </div>
+                                            <!-- user icon attribute end -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- user icon end -->
+                            </div>
+                            <!-- header icon end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- header section end -->
+        <!-- breadcrumb section start -->
+        <section class="breadcrumb-padding bg-very-light-gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12">
+                        <div class="breadcrumb-text">
+                            <!-- breadcrumb title starts -->
+                            <div class="d-inline-block">
+                                <a class="font-weight-600 text-tometo text-extra-large md-title-mdall sm-text-extra-large" href="javascript:void(0)">Blogs</a>
+                                <i class="fas fa-arrow-circle-right"></i>
+                            </div>
+                            <!-- breadcrumb title ends -->
+                            <!-- breadcrumb path starts -->
+                            <div class="d-inline-block">
+                                <a href="javascript:void(0)" class="text-black text-large md-text-large sm-text-large">Blog</a>
+                            </div>
+                            <!-- breadcrumb path ends -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- breadcrumb section end -->
+        <!-- blog section start -->
+        <section class="padding-80px-tb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+                        <!-- main-blog details start -->
+                        <div class="main_blog_details">
+                            <!-- blog image start -->
+                            <div class="blog1-img margin-bottom-15px">
+                                <a href="javascript:void(0)"><img src="./img-47-47_files/libazz-fashion-blog1-img.jpg" alt="" class="img-fluid w-100"></a>
+                            </div>
+                            <!-- blog image end -->
+                            <div class="blog-intro">
+                                <!-- blog title start -->
+                                <div class="blog-heading margin-bottom-15px">
+                                    <h3 class="font-weight-600 lg-title-medium md-title-med-more2 sm-title-mdmore">What is Lorem Ipsum?</h3>
+                                </div>
+                                <!-- blog title end -->
+                                <div class="user_details d-flex justify-content-between sm-display-block margin-bottom-10px">
+                                    <!-- blog tag start -->
+                                    <div class="tag-list d-inline-block sm-display-block sm-margin-bottom-20px">
+                                        <a href="javascript:void(0)">#Lifestyle</a>
+                                        <a href="javascript:void(0)">#Lorem</a>
+                                        <a href="javascript:void(0)">#Gadget</a>
+                                    </div>
+                                    <!-- blog tag end -->
+                                    <!-- blog user start -->
+                                    <div class="media">
+                                        <div class="media-body d-inline-block">
+                                            <!-- blog user name start -->
+                                            <span class="font-weight-600">John Doe</span>
+                                            <!-- blog user name end -->
+                                            <!-- blog date-time start -->
+                                            <p class="text-extra-medium no-margin-bottom">2<sup>nd</sup> Jan, 2019 at 11:21 am</p>
+                                            <!-- blog date-time end -->
+                                        </div>
+                                        <!-- blog user image start -->
+                                        <div class="user-img d-inline-block">
+                                            <img src="./img-47-47_files/libazz-fashion-user-img.jpg" alt="" class="img-fluid">
+                                        </div>
+                                        <!-- blog user image end -->
+                                    </div>
+                                    <!-- blog user end -->
+                                </div>
+                                <!-- blog description start -->
+                                <div class="blog-info d-block border-bottom-light-gray margin-bottom-15px">
+                                    <p class="margin-bottom-10px sm-text-large">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                    <blockquote class="blockquote">
+                                        <p class="no-margin-bottom sm-text-large">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                    </blockquote>
+                                    <p class="margin-bottom-15px sm-text-large">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                </div>
+                                <!-- blog description end -->
+                                <!-- blog like-comment start -->
+                                <div class="like-comment">
+                                    <a href="javascript:void(0)" class="text-black sm-display-block sm-margin-bottom-10px"><i class="far fa-heart margin-right-5px"></i>Jeli and 4 people like this</a>
+                                    <a class="text-black float-right sm-display-block sm-float-none" href="javascript:void(0)"><i class="far fa-comment-alt margin-right-5px"></i>06 Comments</a>
+                                </div>
+                                <!-- blog like-comment end -->
+                            </div>
+                        </div>
+                        <!-- blog next-previous start -->
+                        <div class="next-prev-post margin-bottom-15px">
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-6 d-flex align-items-start sm-no-padding-right">
+                                    <!-- blog previous start -->
+                                    <div class="thumb">
+                                        <!-- previous blog user image start -->
+                                        <div class="d-block margin-bottom-5px">
+                                            <a href="javaScript:void(0)"><img class="img-fluid" src="./img-47-47_files/libazz-fashion-prev.jpg" alt="prev"></a>
+                                        </div>
+                                        <!-- previous blog user image end -->
+                                        <!-- previous blog user name start -->
+                                        <div class="d-block">
+                                            <a href="javaScript:void(0)" class="text-black"><span class="font-weight-600 sm-text-large">Jane</span></a>
+                                        </div>
+                                        <!-- previous blog user name end -->
+                                    </div>
+                                    <div class="prev-post">
+                                        <!-- previous blog link start -->
+                                        <div class="sm-text-large">
+                                            <a href="javaScript:void(0)" class="text-black">Prev Post</a>
+                                        </div>
+                                        <!-- previous blog link end -->
+                                        <!-- previous blog description start -->
+                                        <div class="font-weight-600 text-extra-large md-title-mdall sm-text-extra-large">
+                                            <p class="text-black no-margin-bottom">What is <span class="sm-display-none">Lorem</span></p>
+                                        </div>
+                                        <!-- previous blog description start -->
+                                    </div>
+                                    <!-- blog previous end -->
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-6 d-flex align-items-start justify-content-end sm-no-padding-left">
+                                    <!-- blog next start -->
+                                    <div class="next-post text-left">
+                                        <!-- next blog link start -->
+                                        <div class="sm-text-large">
+                                            <a href="javaScript:void(0)" class="text-black">Next Post</a>
+                                        </div>
+                                        <!-- next blog link end -->
+                                        <!-- next blog description start -->
+                                        <div class="font-weight-600 text-extra-large md-title-mdall sm-text-extra-large">
+                                            <p class="text-black no-margin-bottom">What is <span class="sm-display-none">Lorem</span></p>
+                                        </div>
+                                        <!-- next blog description start -->
+                                    </div>
+                                    <div class="thumb">
+                                        <!-- next blog user image start -->
+                                        <div class="margin-bottom-5px">
+                                            <a href="javaScript:void(0)" class="d-block"><img class="img-fluid" src="./img-47-47_files/libazz-fashion-next.jpg" alt="next"></a>
+                                        </div>
+                                        <!-- next blog user image end -->
+                                        <!-- next blog user name start -->
+                                        <div class="d-block">
+                                            <a href="javaScript:void(0)" class="d-block text-black"><span class="font-weight-600 sm-text-large">Jane</span></a>
+                                        </div>
+                                        <!-- next blog user name end -->
+                                    </div>
+                                    <!-- blog next end -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- blog next-previous end -->
+                        <!-- blog comments start -->
+                        <div class="comments-area border-bottom-light-gray padding-bottom-15px">
+                            <!-- comment title start -->
+                            <h2 class="font-weight-600 text-extra-large sm-title-mdmore margin-bottom-15px">Comments</h2>
+                            <!-- comment title end -->
+                            <div class="comment-list">
+                                <div class="single-comment justify-content-between d-flex">
+                                    <div class="user justify-content-between d-flex">
+                                        <!-- comment user image start -->
+                                        <div class="thumb margin-right-15px">
+                                            <img src="./img-47-47_files/libazz-fashion-c1.jpg" alt="" class="img-fluid">
+                                        </div>
+                                        <!-- comment user image end -->
+                                        <div class="desc">
+                                            <!-- comment user name start -->
+                                            <div class="user-pro-name">
+                                                <a href="javascript:void(0)" class="text-black font-weight-600 text-large sm-text-extra-large">John Doe</a>
+                                            </div>
+                                            <!-- comment user name end -->
+                                            <!-- comment date-time start -->
+                                            <p class="date no-margin-bottom">4<sup>th</sup> Dec, 2017 at 3:12 pm</p>
+                                            <!-- comment date-time end -->
+                                            <!-- user comment start -->
+                                            <p class="comment no-margin-bottom sm-text-large">Never say goodbye till the end comes!</p>
+                                            <!-- user comment end -->
+                                        </div>
+                                    </div>
+                                    <!-- comment reply start -->
+                                    <div class="reply-btn">
+                                        <a href="javascript:void(0)" class="btn btn-small">Reply</a>
+                                    </div>
+                                    <!-- comment reply end -->
+                                </div>
+                            </div>
+                            <div class="comment-list left-side">
+                                <div class="single-comment justify-content-between d-flex">
+                                    <div class="user justify-content-between d-flex">
+                                        <!-- comment user image start -->
+                                        <div class="thumb margin-right-15px">
+                                            <img src="./img-47-47_files/libazz-fashion-c2.jpg" alt="" class="img-fluid">
+                                        </div>
+                                        <!-- comment user image end -->
+                                        <div class="desc">
+                                            <!-- comment user name start -->
+                                            <div class="user-pro-name">
+                                                <a href="javascript:void(0)" class="text-black font-weight-600 text-large sm-text-extra-large">John Doe</a>
+                                            </div>
+                                            <!-- comment user name end -->
+                                            <!-- comment date-time start -->
+                                            <p class="date no-margin-bottom">4<sup>th</sup> Dec, 2017 at 3:12 pm</p>
+                                            <!-- comment date-time end -->
+                                            <!-- user comment start -->
+                                            <p class="comment no-margin-bottom sm-text-large">Never say goodbye till the end comes!</p>
+                                            <!-- user comment end -->
+                                        </div>
+                                    </div>
+                                    <!-- comment reply start -->
+                                    <div class="reply-btn">
+                                        <a href="javascript:void(0)" class="btn btn-small">Reply</a>
+                                    </div>
+                                    <!-- comment reply end -->
+                                </div>
+                            </div>
+                            <div class="comment-list left-side">
+                                <div class="single-comment justify-content-between d-flex">
+                                    <div class="user justify-content-between d-flex">
+                                        <!-- comment user image start -->
+                                        <div class="thumb margin-right-15px">
+                                            <img src="./img-47-47_files/libazz-fashion-c3.jpg" alt="" class="img-fluid">
+                                        </div>
+                                        <!-- comment user image end -->
+                                        <div class="desc">
+                                            <!-- comment user name start -->
+                                            <div class="user-pro-name">
+                                                <a href="javascript:void(0)" class="text-black font-weight-600 text-large sm-text-extra-large">John Doe</a>
+                                            </div>
+                                            <!-- comment user name end -->
+                                            <!-- comment date-time start -->
+                                            <p class="date no-margin-bottom">4<sup>th</sup> Dec, 2017 at 3:12 pm</p>
+                                            <!-- comment date-time end -->
+                                            <!-- user comment start -->
+                                            <p class="comment no-margin-bottom sm-text-large">Never say goodbye till the end comes!</p>
+                                            <!-- user comment end -->
+                                        </div>
+                                    </div>
+                                    <!-- comment reply start -->
+                                    <div class="reply-btn">
+                                        <a href="javascript:void(0)" class="btn btn-small">Reply</a>
+                                    </div>
+                                    <!-- comment reply end -->
+                                </div>
+                            </div>
+                            <div class="comment-list">
+                                <div class="single-comment justify-content-between d-flex">
+                                    <div class="user justify-content-between d-flex">
+                                        <!-- comment user image start -->
+                                        <div class="thumb margin-right-15px">
+                                            <img src="./img-47-47_files/libazz-fashion-c4.jpg" alt="" class="img-fluid">
+                                        </div>
+                                        <!-- comment user image end -->
+                                        <div class="desc">
+                                            <!-- comment user name start -->
+                                            <div class="user-pro-name">
+                                                <a href="javascript:void(0)" class="text-black font-weight-600 text-large sm-text-extra-large">John Doe</a>
+                                            </div>
+                                            <!-- comment user name end -->
+                                            <!-- comment date-time start -->
+                                            <p class="date no-margin-bottom">4<sup>th</sup> Dec, 2017 at 3:12 pm</p>
+                                            <!-- comment date-time end -->
+                                            <!-- user comment start -->
+                                            <p class="comment no-margin-bottom sm-text-large">Never say goodbye till the end comes!</p>
+                                            <!-- user comment end -->
+                                        </div>
+                                    </div>
+                                    <!-- comment reply start -->
+                                    <div class="reply-btn">
+                                        <a href="javascript:void(0)" class="btn btn-small">Reply</a>
+                                    </div>
+                                    <!-- comment reply end -->
+                                </div>
+                            </div>
+                            <div class="comment-list">
+                                <div class="single-comment justify-content-between d-flex">
+                                    <div class="user justify-content-between d-flex">
+                                        <!-- comment user image start -->
+                                        <div class="thumb margin-right-15px">
+                                            <img src="./img-47-47_files/libazz-fashion-c5.jpg" alt="" class="img-fluid">
+                                        </div>
+                                        <!-- comment user image end -->
+                                        <div class="desc">
+                                            <!-- comment user name start -->
+                                            <div class="user-pro-name">
+                                                <a href="javascript:void(0)" class="text-black font-weight-600 text-large sm-text-extra-large">John Doe</a>
+                                            </div>
+                                            <!-- comment user name end -->
+                                            <!-- comment date-time start -->
+                                            <p class="date no-margin-bottom">4<sup>th</sup> Dec, 2017 at 3:12 pm</p>
+                                            <!-- comment date-time end -->
+                                            <!-- user comment start -->
+                                            <p class="comment no-margin-bottom sm-text-large">Never say goodbye till the end comes!</p>
+                                            <!-- user comment end -->
+                                        </div>
+                                    </div>
+                                    <!-- comment reply start -->
+                                    <div class="reply-btn">
+                                        <a href="javascript:void(0)" class="btn btn-small">Reply</a>
+                                    </div>
+                                    <!-- comment reply end -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- blog comments end -->
+                        <!-- blog leave-reply block start -->
+                        <div class="leave-reply padding-top-15px">
+                            <!-- blog leave-reply title start -->
+                            <div class="blog-leave-reply">
+                                <h2 class="font-weight-600 text-extra-large sm-title-mdmore margin-bottom-15px">Leave A Reply</h2>
+                            </div>
+                            <!-- blog leave-reply title end -->
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-12 margin-bottom-15px">
+                                    <!-- firstname start -->
+                                    <div class="fname">
+                                        <input type="text" name="fname" placeholder="Enter first name" class="w-100">
+                                    </div>
+                                    <!-- firstname end -->
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-12 margin-bottom-15px">
+                                    <!-- lastname start -->
+                                    <div class="lname">
+                                        <input type="text" name="fname" placeholder="Enter last name" class="w-100">
+                                    </div>
+                                    <!-- lastname end -->
+                                </div>
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-12 margin-bottom-15px">
+                                    <!-- subject start -->
+                                    <div class="subject">
+                                        <input type="text" name="fname" placeholder="Subject" class="w-100">
+                                    </div>
+                                    <!-- subject end -->
+                                </div>
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+                                    <!-- message start -->
+                                    <div class="message">
+                                        <textarea rows="5" name="message" placeholder="Message" class="w-100"></textarea>
+                                    </div>
+                                    <!-- message end -->
+                                </div>
+                            </div>
+                            <!-- send-message start -->
+                            <div class="send-msg">
+                                <a href="javascript:void(0)" class="btn btn-style">Send message</a>
+                            </div>
+                            <!-- send-message end -->
+                        </div>
+                        <!-- blog leave-reply block end -->
+                        <!-- main-blog details end -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- blog section end -->
+        <!-- footer section start -->
+        <section class="bg-dark-light-blue padding-80px-tb">
+            <div class="container">
+                <div class="row align-items-center margin-bottom-15px sm-margin-bottom-20px">
+                    <!-- footer-logo start -->
+                    <div class="col-xl-3 col-lg-3 col-md-3">
+                        <div class="footer-img">
+                            <a href="file:///F:/libazz%20final/home.html"><img class="img-fluid footer-logo" src="./img-47-47_files/libazz-fashion-footer-logo.png" alt="footer-logo"></a>
+                        </div>
+                    </div>
+                    <!-- footer-logo end -->
+                    <div class="col-xl-6 col-lg-6 col-md-5">
+                        <!-- company-desciption start -->
+                        <div class="company-desciption sm-margin-top-10px sm-margin-bottom-10px">
+                            <span class="text-white text-center sm-text-large">Lorem Ipsum is simply dummy text of the printing and has been industry's standard dummy text ever since the 1500s.</span>
+                        </div>
+                        <!-- company-desciption end -->
+                    </div>
+                    <!-- social-media-icon start -->
+                    <div class="col-xl-3 col-lg-3 col-md-4 d-flex align-items-center justify-content-end sm-justify-content-start">
+                        <div class="social-icon">
+                            <a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a>
+                            <a href="https://www.youtube.com/" target="_blank"><i class="ti-youtube"></i></a>
+                            <a href="https://www.linkedin.com/" target="_blank"><i class="ti-linkedin"></i></a>
+                            <a href="https://in.pinterest.com/" target="_blank"><i class="ti-pinterest"></i></a>
+                            <a href="https://twitter.com/" target="_blank"><i class="ti-twitter-alt"></i></a>
+                        </div>
+                    </div>
+                    <!-- social-media-icon end -->
+                </div>
+                <div class="border-top-light padding-top-20px">
+                    <div class="row">
+                        <div class="col-xl-2 col-lg-3 col-md-6 md-margin-bottom-15px">
+                            <!-- user-link start -->
+                            <div class="footer-useful sm-display-none">
+                                <div class="text-large text-tometo margin-bottom-15px">Useful links</div>
+                                <div class="useful-links">
+                                    <a href="file:///F:/libazz%20final/track-page.html" class="text-white d-block margin-bottom-5px">Track order</a>
+                                    <a href="file:///F:/libazz%20final/cancellation.html" class="text-white d-block margin-bottom-5px">Cancelation</a>
+                                    <a href="file:///F:/libazz%20final/stores.html" class="text-white d-block margin-bottom-5px">Store</a>
+                                    <a href="file:///F:/libazz%20final/faqs.html" class="text-white d-block margin-bottom-5px">Faq's</a>
+                                    <a href="file:///F:/libazz%20final/privacy-policy.html" class="text-white d-block margin-bottom-5px">Privacy policy</a>
+                                    <a href="file:///F:/libazz%20final/terms-condition.html" class="text-white">Terms &amp; condition</a>
+                                </div>
+                            </div>
+                            <!-- user-link end -->
+                            <!-- responsive use-link start -->
+                            <div class="panel-group d-none sm-display-block" id="accordion1">
+                                <div class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion1" href="file:///F:/libazz%20final/blog.html#collapse1" class="sm-text-extra-large text-tometo font-weight-600" aria-expanded="false">Useful links
+                                        <!-- plus icon starts -->
+                                        <i class="fas fa-plus-circle"></i>
+                                        <!-- plus icon ends -->
+                                    </a>
+                                </div>
+                                <div id="collapse1" class="panel-collapse collapse sm-text-large sm-margin-top-15px">
+                                    <a href="file:///F:/libazz%20final/track-page.html" class="text-white d-block sm-margin-bottom-10px">Track order</a>
+                                    <a href="file:///F:/libazz%20final/cancellation.html" class="text-white d-block sm-margin-bottom-10px">Cancelation</a>
+                                    <a href="file:///F:/libazz%20final/stores.html" class="text-white d-block sm-margin-bottom-10px">Store</a>
+                                    <a href="file:///F:/libazz%20final/faqs.html" class="text-white d-block sm-margin-bottom-10px">Faq's</a>
+                                    <a href="file:///F:/libazz%20final/privacy-policy.html" class="text-white d-block sm-margin-bottom-10px">Privacy policy</a>
+                                    <a href="file:///F:/libazz%20final/terms-condition.html" class="text-white">Terms &amp; condition</a>
+                                </div>
+                            </div>
+                            <!-- responsive use-link end -->
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-6 md-margin-bottom-15px">
+                            <!-- user account start -->
+                            <div class="footer-account sm-display-none">
+                                <div class="text-large text-tometo margin-bottom-15px sm-margin-top-10px">Account</div>
+                                <div class="account">
+                                    <a href="file:///F:/libazz%20final/signin.html" class="text-white d-block margin-bottom-5px">My account</a>
+                                    <a href="file:///F:/libazz%20final/signin.html" class="text-white d-block margin-bottom-5px">Order history</a>
+                                    <a href="file:///F:/libazz%20final/wishlist.html" class="text-white d-block margin-bottom-5px">Wishlist</a>
+                                    <a href="file:///F:/libazz%20final/cart-page.html" class="text-white d-block margin-bottom-5px">Cart page</a>
+                                    <a href="file:///F:/libazz%20final/site-map.html" class="text-white d-block margin-bottom-5px">Sitemap</a>
+                                    <a href="file:///F:/libazz%20final/contact-us2.html" class="text-white">Contact us</a>
+                                </div>
+                            </div>
+                            <!-- user account end -->
+                            <!-- responsive user account start -->
+                            <div class="panel-group d-none sm-display-block" id="accordion2">
+                                <div class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion2" href="file:///F:/libazz%20final/blog.html#collapse2" class="sm-text-extra-large text-tometo font-weight-600" aria-expanded="false">Account
+                                        <!-- plus icon starts -->
+                                        <i class="fas fa-plus-circle"></i>
+                                        <!-- plus icon ends -->
+                                    </a>
+                                </div>
+                                <div id="collapse2" class="panel-collapse collapse sm-text-large sm-margin-top-15px">
+                                    <a href="file:///F:/libazz%20final/signin.html" class="text-white d-block sm-margin-bottom-10px">My account</a>
+                                    <a href="file:///F:/libazz%20final/signin.html" class="text-white d-block sm-margin-bottom-10px">Order history</a>
+                                    <a href="file:///F:/libazz%20final/wishlist.html" class="text-white d-block sm-margin-bottom-10px">Wishlist</a>
+                                    <a href="file:///F:/libazz%20final/cart-page.html" class="text-white d-block sm-margin-bottom-10px">Cart page</a>
+                                    <a href="file:///F:/libazz%20final/site-map.html" class="text-white d-block sm-margin-bottom-10px">Sitemap</a>
+                                    <a href="file:///F:/libazz%20final/contact-us2.html" class="text-white">Contact us</a>
+                                </div>
+                            </div>
+                            <!-- responsive user account end -->
+                        </div>
+                        <div class="col-xl-3 col-lg-3 col-md-6 sm-margin-bottom-15px">
+                            <!-- store location start -->
+                            <div class="footer-store sm-display-none">
+                                <div class="text-large text-tometo margin-bottom-15px">Store location</div>
+                                <div class="store-location margin-bottom-5px">
+                                    <div class="d-inline-block margin-right-5px">
+                                        <i class="fas fa-map-marker-alt text-white"></i>
+                                    </div>
+                                    <div class="d-inline-block text-white vertical-align-middle">Demo store on road 10<br>United states</div>
+                                </div>
+                                <div class="store-location margin-bottom-5px">
+                                    <div class="d-inline-block margin-right-5px">
+                                        <i class="fas fa-phone-volume text-white vertical-align-middle"></i>
+                                    </div>
+                                    <div class="d-inline-block">
+                                        <a href="javascript:void(0)" class="text-white vertical-align-middle">+6494461709</a>
+                                    </div>
+                                </div>
+                                <div class="store-location margin-bottom-5px">
+                                    <div class="d-inline-block margin-right-5px">
+                                        <i class="far fa-envelope text-white vertical-align-middle"></i>
+                                    </div>
+                                    <div class="d-inline-block">
+                                        <a href="javascript:void(0)" class="text-white vertical-align-middle">demo@demo.com</a>
+                                    </div>
+                                </div>
+                                <div class="store-location margin-bottom-5px">
+                                    <div class="d-inline-block margin-right-5px">
+                                        <i class="fab fa-skype text-white vertical-align-middle"></i>
+                                    </div>
+                                    <div class="d-inline-block">
+                                        <a href="javascript:void(0)" class="text-white vertical-align-middle">John Doe-Skype</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- store location end -->
+                            <!-- responsive store location start -->
+                            <div class="panel-group d-none sm-display-block" id="accordion3">
+                                <div class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion3" href="file:///F:/libazz%20final/blog.html#collapse3" class="sm-text-extra-large text-tometo font-weight-600" aria-expanded="false">Store location
+                                        <!-- plus icon starts -->
+                                        <i class="fas fa-plus-circle"></i>
+                                        <!-- plus icon ends -->
+                                    </a>
+                                </div>
+                                <div id="collapse3" class="panel-collapse collapse sm-text-large">
+                                    <div class="store-location sm-margin-bottom-10px sm-margin-top-15px">
+                                        <div class="d-inline-block margin-right-5px">
+                                            <i class="fas fa-map-marker-alt text-white"></i>
+                                        </div>
+                                        <div class="d-inline-block text-white vertical-align-middle">Demo store on road 10<br>United states</div>
+                                    </div>
+                                    <div class="store-location sm-margin-bottom-10px">
+                                        <div class="d-inline-block margin-right-5px">
+                                            <i class="fas fa-phone-volume text-white vertical-align-middle"></i>
+                                        </div>
+                                        <div class="d-inline-block">
+                                            <a href="javascript:void(0)" class="text-white vertical-align-middle">+6494461709</a>
+                                        </div>
+                                    </div>
+                                    <div class="store-location sm-margin-bottom-10px">
+                                        <div class="d-inline-block margin-right-5px">
+                                            <i class="far fa-envelope text-white vertical-align-middle"></i>
+                                        </div>
+                                        <div class="d-inline-block">
+                                            <a href="javascript:void(0)" class="text-white vertical-align-middle">demo@demo.com</a>
+                                        </div>
+                                    </div>
+                                    <div class="store-location sm-margin-bottom-10px">
+                                        <div class="d-inline-block margin-right-5px">
+                                            <i class="fab fa-skype text-white vertical-align-middle"></i>
+                                        </div>
+                                        <div class="d-inline-block">
+                                            <a href="javascript:void(0)" class="text-white vertical-align-middle">John Doe-Skype</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- responsive store location end -->
+                        </div>
+                        <div class="col-xl-5 col-lg-4 col-md-6">
+                            <div class="news-letter sm-display-none">
+                                <!-- footer-news-letter start -->
+                                <div class="text-large text-tometo margin-bottom-15px">Newsletter</div>
+                                <div class="margin-bottom-5px">
+                                    <span class="text-white">Subscribe to get important updates</span>
+                                </div>
+                                <form class="newsletter d-flex">
+                                    <input type="email" placeholder="Email your address" name="mail">
+                                    <button class="btn btn-small1">Sign up</button>
+                                </form>
+                                <!-- footer-news-letter end -->
+                            </div>
+                            <!-- responsive footer-news-letter start -->
+                            <div class="panel-group d-none sm-display-block" id="accordion4">
+                                <div class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion4" href="file:///F:/libazz%20final/blog.html#collapse4" class="sm-text-extra-large text-tometo font-weight-600" aria-expanded="false">Newsletter
+                                        <!-- plus icon starts -->
+                                        <i class="fas fa-plus-circle"></i>
+                                        <!-- plus icon ends -->
+                                    </a>
+                                </div>
+                                <div id="collapse4" class="panel-collapse collapse sm-text-large">
+                                    <!-- newsletter start -->
+                                    <div class="sm-margin-top-15px sm-margin-bottom-10px">
+                                        <span class="text-white">Subscribe to get important updates</span>
+                                    </div>
+                                    <form class="newsletter d-flex">
+                                        <input type="email" placeholder="Email your address" name="mail" class="sm-text-large">
+                                        <button class="btn btn-small1">Sign up</button>
+                                    </form>
+                                    <!-- newsletter end-->
+                                    <!-- responsive payment start-->
+                                    <div class="payment">
+                                        <div class="text-tometo sm-text-extra-large sm-margin-top-15px sm-margin-bottom-10px">Payment</div>
+                                        <div class="pay-option">
+                                            <a href="javascript:void(0)"><img src="./img-47-47_files/libazz-fashion-payment.png" alt="payment" class="img-fluid"></a>
+                                        </div>
+                                    </div>
+                                    <!-- responsive payment end-->
+                                </div>
+                            </div>
+                            <!-- responsive footer-news-letter end -->
+                            <!-- payment start-->
+                            <div class="payment sm-display-none">
+                                <div class="text-large text-tometo margin-top-15px margin-bottom-15px">Payment</div>
+                                <a href="javascript:void(0)"><img src="./img-47-47_files/libazz-fashion-payment.png" alt="payment" class="img-fluid"></a>
+                            </div>
+                            <!-- Payment start-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- copy-right-section start -->
+        <footer class="bg-tometo padding-top-10px padding-bottom-10px">
+            <div class="container">
+                <div class="row">
+                    <!-- footer copyright texts starts -->
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-12">
+                        <div class="copyright text-white">Copyright <i class="far fa-copyright"></i> 2019 All Rights Reserved</div>
+                    </div>
+                    <!-- footer copyright texts ends -->
+                    <!-- footer terms & condition start -->
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-12 text-right">
+                        <div class="terms"><a href="file:///F:/libazz%20final/terms-condition.html" class="text-white">Terms | Condition</a></div>
+                    </div>
+                    <!-- footer terms & condition end -->
+                </div>
+            </div>
+        </footer>
+        <!-- copy-right-section end -->
+        <!-- footer section end -->
+        <!-- javascript/jquery files -->
+        <!-- jquery -->
+        <script src="./img-47-47_files/jquery-3.3.1.min.js.download"></script>
+        <!-- instagramFeed -->
+        <script src="./img-47-47_files/jquery.instagramFeed.min.js.download"></script>
+        <!-- popper js -->
+        <script src="./img-47-47_files/popper.min.js.download"></script>
+        <!-- bootstrap -->
+        <script src="./img-47-47_files/bootstrap.min.js.download"></script>
+        <!-- aos -->
+        <script src="./img-47-47_files/aos.js.download"></script>
+        <!-- swiper -->
+        <script src="./img-47-47_files/swiper.min.js.download"></script>
+        <!-- masonary -->
+        <script src="./img-47-47_files/isotope.pkgd.min.js.download"></script>
+        <script src="./img-47-47_files/imagesloaded.pkgd.min.js.download"></script>
+        <script src="./img-47-47_files/masonry.pkgd.min.js.download"></script>
+        <!-- owl carousal -->
+        <script src="./img-47-47_files/owl.carousel.min.js.download"></script>
+        <!-- product-zoom -->
+        <script src="./img-47-47_files/jquery.zoom.js.download"></script>
+        <!-- custom -->
+        <script src="./img-47-47_files/custom.js.download"></script>
+    
+</body></html>

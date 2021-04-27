@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Filter Template</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="css/fontawesome.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<section class="featured-product padding-top-bottom" id="porfolio">
+    <div class="container">
+      <div class="row title">
+        <div class="featured-title color-black">
+          <h2>Featured Product</h2>
+        </div>
+      </div>
+      <div class="row name">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-12 filtering text-center">
+            <span data-filter="*" class="active">All</span>
+            <span data-filter=".sweaters">Sweaters</span>
+            <span data-filter=".shoes">Shoes</span>
+            <span data-filter=".sunglasees">Sunglasees</span>
+        </div>
+      </div>
+      <div class="direction">
+        <div class="right-left color-black">
+          <i class="fa fa-chevron-left" onclick="changeslide(-1)"></i>
+          <i class="fa fa-chevron-right" onclick="changeslide(1)"></i>
+        </div>
+      </div>
+      <div class="gallery row">
+        <div class="item margin-top-bottom w-100 myslider">
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sweaters">
+              <div class="item-img active">
+                <div class="column">
+                  <div class="poduct-img">                  
+                      <img src="image/product-1.JPG" alt="product-img1" class="w-100 img-fluid">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items shoes">
+              <div class="item-img">
+                <div class="column">
+                  <div class="poduct-img">                  
+                      <img src="image/product-2.JPG" alt="product-img2" class="w-100 h-100">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sweaters">
+              <div class="item-img">
+                <div class="column">
+                  <div class="poduct-img">                  
+                      <img src="image/product-3.JPG" alt="product-img3" class="w-100 h-100">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items shoes">
+              <div class="item-img">
+                <div class="column">
+                  <div class="poduct-img">                 
+                      <img src="image/product-4.JPG" alt="product-img4" class="w-100 h-100">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sunglasees">
+              <div class="item-img">
+                <div class="column">
+                  <div class="poduct-img">                  
+                      <img src="image/product-1.JPG" alt="product-img1" class="w-100 h-100">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sweaters">
+              <div class="item-img">
+                <div class="column">
+                  <div class="poduct-img">                  
+                      <img src="image/product-2.JPG" alt="product-img2" class="w-100 h-100">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items shoes">
+              <div class="item-img">
+                <div class="column">
+                  <div class="poduct-img">                  
+                      <img src="image/product-3.JPG" alt="product-img3" class="w-100 h-100">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sunglasees">
+              <div class="item-img">
+                <div class="column">
+                  <div class="poduct-img">                 
+                      <img src="image/product-4.JPG" alt="product-img4" class="w-100 h-100">
+                      <!-- product label start -->
+                      <span class="product-new-label">Sale</span>
+                      <!-- product label end -->
+                      <div class="product-name color-black"><font>Product Name</font></div>
+                      <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="gallery row">
+        <div class="item margin-top-bottom w-100 myslider">
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sweaters">
+            <div class="item-img active">
+              <div class="column">
+                <div class="poduct-img">                  
+                    <img src="image/product-1.JPG" alt="product-img1" class="w-100 img-fluid">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items shoes">
+            <div class="item-img">
+              <div class="column">
+                <div class="poduct-img">                  
+                    <img src="image/product-2.JPG" alt="product-img2" class="w-100 h-100">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sweaters">
+            <div class="item-img">
+              <div class="column">
+                <div class="poduct-img">                  
+                    <img src="image/product-3.JPG" alt="product-img3" class="w-100 h-100">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items shoes">
+            <div class="item-img">
+              <div class="column">
+                <div class="poduct-img">                 
+                    <img src="image/product-4.JPG" alt="product-img4" class="w-100 h-100">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sunglasees">
+            <div class="item-img">
+              <div class="column">
+                <div class="poduct-img">                  
+                    <img src="image/product-1.JPG" alt="product-img1" class="w-100 h-100">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sweaters">
+            <div class="item-img">
+              <div class="column">
+                <div class="poduct-img">                  
+                    <img src="image/product-2.JPG" alt="product-img2" class="w-100 h-100">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items shoes">
+            <div class="item-img">
+              <div class="column">
+                <div class="poduct-img">                  
+                    <img src="image/product-3.JPG" alt="product-img3" class="w-100 h-100">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-6 items sunglasees">
+            <div class="item-img">
+              <div class="column">
+                <div class="poduct-img">                 
+                    <img src="image/product-4.JPG" alt="product-img4" class="w-100 h-100">
+                    <!-- product label start -->
+                    <span class="product-new-label">Sale</span>
+                    <!-- product label end -->
+                    <div class="product-name color-black"><font>Product Name</font></div>
+                    <div class="product-price color-black"><strike>&#8364; 21.5</strike><font color="red">-5%</font><b>&#8364; 20.4</b></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--Jquery-->
+  <script src="js/jquery.min.js"></script>
+  <!--Popper jquery-->
+  <script src="js/popper.min.js"></script>
+  <!--bootstrap-->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- masonary -->
+  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="js/imagesloaded.pkgd.min.js"></script>
+  <!--Custom Js-->
+  <script src="js/custom.js"></script>
+</body>
+</html>
